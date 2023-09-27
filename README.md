@@ -9,3 +9,4 @@ Lung cancer rates are rising, with 29.5M cases and 16.4M deaths projected by 204
 (iii) To identify novel biomarkers and pathways associated with lung cancer adenocarcinoma and explore their potential applications in advancing personalised medicine for this patient outcomes. The purpose of this aim to perform omics data analysis (transcriptomic and fluxomic) on relevant patient samples to identify potential novel biomarkers and to conduct pathways analysis to identify significant pathways associated with lung cancer adenocarcinoma. Also, to validate the novel biomarkers and pathways findings from the literature review. Furthermore, to assess the potential clinical relevance and applicability of these novel biomarkers and pathways in personalised medicine for lung cancer adenocarcinoma patients.
 
 # Workflow
+![MAIN_DESIGN](https://github.com/pradipms/Lungcancer/assets/78509712/54e66036-7b4f-426b-b39a-a62c2e3f9e2c)
