@@ -21,6 +21,7 @@ Lung cancer rates are rising, with 29.5M cases and 16.4M deaths projected by 204
 
 # Steps to Run R Code
 Some of the plot analysis did in R and R Studio software.
+
 (i) First create folder "R" in "Lungcancer" folder
 
 (ii) Download the datasets from https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/R/Dataset folder. Saved the datasets in "Lungcancer/R/Dataset" folder.
