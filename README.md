@@ -9,7 +9,7 @@ Lung cancer rates are rising, with 29.5M cases and 16.4M deaths projected by 204
 (iii) To identify novel biomarkers and pathways associated with lung cancer adenocarcinoma and explore their potential applications in advancing personalised medicine for this patient outcomes. The purpose of this aim to perform omics data analysis (transcriptomic and fluxomic) on relevant patient samples to identify potential novel biomarkers and to conduct pathways analysis to identify significant pathways associated with lung cancer adenocarcinoma. Also, to validate the novel biomarkers and pathways findings from the literature review. Furthermore, to assess the potential clinical relevance and applicability of these novel biomarkers and pathways in personalised medicine for lung cancer adenocarcinoma patients.
 
 ## Steps to Run the DT, GBT, RF, SVR, Cox Regression Models By Using Feature Selection Methods PCA and RF
-(i) First create folder and provide name like "Lungcancer".
+"dots" First create folder and provide name like "Lungcancer".
 
 (ii) Download the datasets (Flux.xlsx and Geneexpression.xlsx) from https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING folder. Save the datasets in "Lungcancer/Dataset" folder.
 
