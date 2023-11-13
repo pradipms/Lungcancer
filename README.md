@@ -8,29 +8,29 @@ Lung cancer rates are rising, with 29.5M cases and 16.4M deaths projected by 204
 
 (iii) To identify novel biomarkers and pathways associated with lung cancer adenocarcinoma and explore their potential applications in advancing personalised medicine for this patient outcomes. The purpose of this aim to perform omics data analysis (transcriptomic and fluxomic) on relevant patient samples to identify potential novel biomarkers and to conduct pathways analysis to identify significant pathways associated with lung cancer adenocarcinoma. Also, to validate the novel biomarkers and pathways findings from the literature review. Furthermore, to assess the potential clinical relevance and applicability of these novel biomarkers and pathways in personalised medicine for lung cancer adenocarcinoma patients.
 
-## Steps to Run the DT, GBT, RF, SVR, Cox Regression Models By Using Feature Selection Methods PCA and RF
-(i) First create folder and provide name like "Lungcancer".
+## Steps to Run the DT, GBT, RF, SVR, Cox Regression Models Using Feature Selection Methods PCA and RF
+(i) First, create a folder and provide a name like "Lungcancer."
 
-(ii) Download the datasets (Flux.xlsx and Geneexpression.xlsx) from https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING folder. Save the datasets in "Lungcancer/Dataset" folder.
+(ii) Download the datasets (Flux.xlsx and Geneexpression.xlsx) from https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING folder. Save the datasets in the "Lungcancer/Dataset" folder.
 
-(iii) Download the machine learning modelling codes for PCA and RF feature selection are in https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING/PCA and https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING/RF. Saved it on "Lungcancer/PCA" and "Lungcancer/RF" folder.
+(iii) Download the machine learning modeling codes for PCA and RF feature selection at https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING/PCA and https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING/RF. Save them in the "Lungcancer/PCA" and "Lungcancer/RF" folders.
 
-(iv) The machine learning modelling codes are in .ipynb format. Install Jupyter Notebook and upload codes files are in jupyter notebook.
+(iv) The machine learning modeling codes are in .ipynb format. Install Jupyter Notebook and upload code files in Jupyter Notebook.
 
-(v) First set working directory (provide right directory path in the code) and then run the code.
+(v) First, set the working directory (provide the correct directory path in the code), and then run the code.
 
 ## Steps to Run R Code
-Some of the plot analysis did in R and R Studio software.
+Some of the plot analyses were done in R and R Studio software.
 
-(i) First create folder "R" in "Lungcancer" folder
+(i) First, create a folder "R" in the "Lungcancer" folder.
 
-(ii) Download the datasets from https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/R/Dataset folder. Saved the datasets in "Lungcancer/R/Dataset" folder.
+(ii) Download the datasets from https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/R/Dataset folder. Save the datasets in the "Lungcancer/R/Dataset" folder.
 
-(iii) Code are provided in https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/R folder. Saved code in "Lungcancer/R" folder.  
+(iii) Codes are provided at https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/R folder. Save the code in the "Lungcancer/R" folder.
 
 (iv) Download R Software with R Studio and install it.
 
-(v) Open R files in R Studio and before running the files, set the working directory.
+(v) Open R files in R Studio, and before running the files, set the working directory.
 
 ## Workflow
 ![MAIN_DESIGN](https://github.com/pradipms/Lungcancer/assets/78509712/54e66036-7b4f-426b-b39a-a62c2e3f9e2c)
