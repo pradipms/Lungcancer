@@ -10,17 +10,25 @@ Lung cancer rates are rising, with 29.5M cases and 16.4M deaths projected by 204
 
 # Steps to Run the DT, GBT, RF, SVR, Cox Regression Models By Using Feature Selection Methods PCA and RF
 (i) First create folder and provide name like "Lungcancer".
+
 (ii) Download the datasets (Flux.xlsx and Geneexpression.xlsx) from https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING folder. Save the datasets in "Lungcancer/Dataset" folder.
+
 (iii) Download the machine learning modelling codes for PCA and RF feature selection are in https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING/PCA and https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/PYTHON/MODELLING/RF. Saved it on "Lungcancer/PCA" and "Lungcancer/RF" folder.
+
 (iv) The machine learning modelling codes are in .ipynb format. Install Jupyter Notebook and upload codes files are in jupyter notebook.
+
 (v) First set working directory (provide right directory path in the code) and then run the code.
 
 # Steps to Run R Code
 Some of the plot analysis did in R and R Studio software.
 (i) First create folder "R" in "Lungcancer" folder
+
 (ii) Download the datasets from https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/R/Dataset folder. Saved the datasets in "Lungcancer/R/Dataset" folder.
-(iii) Code are provided in https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/R folder. Saved code in "Lungcancer/R" folder. Also, 
+
+(iii) Code are provided in https://github.com/pradipms/Lungcancer/tree/master/MACHINE%20LEARNING/R folder. Saved code in "Lungcancer/R" folder.  
+
 (iv) Download R Software with R Studio and install it.
+
 (v) Open R files in R Studio and before running the files, set the working directory.
 
 # Workflow
