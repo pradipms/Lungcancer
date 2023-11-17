@@ -33,4 +33,4 @@ Some of the plot analyses were done in R and R Studio software.
 (v) Open R files in R Studio, and before running the files, set the working directory.
 
 ## Workflow
-![MAIN_DESIGN](https://github.com/pradipms/Lungcancer/assets/78509712/54e66036-7b4f-426b-b39a-a62c2e3f9e2c)
+![MAIN_DESIGN](https://github.com/pradipms/Lungcancer/assets/78509712/201bb0ee-0078-4db4-9da0-5d9ecf1642a9)
